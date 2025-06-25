@@ -1,4 +1,3 @@
-
 # 🌦️ IoT Weather Station
 
 A real-time IoT-based weather monitoring system built using **Raspberry Pi**, sensors, and a custom **HTML web interface**. It measures temperature, humidity, and light intensity and displays the data on a local web dashboard.
